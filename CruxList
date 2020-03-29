@@ -68,7 +68,7 @@
     "ghast": "",
     "enderman": "silents_mechanisms:enderium_block",
     "diamond": "minecraft:diamond_block",
-    "emerald": "item:minecraft:emerald_block",
+    "emerald": "minecraft:emerald_block",
     "wither_skeleton": "mysticalagriculture:witherproof_block"
   
   "Silents Mechanism Crux List": {
